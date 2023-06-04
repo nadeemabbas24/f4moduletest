@@ -39,8 +39,8 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route path='/' element={<Home/>}></Route>
-        <Route path='/detail' element={<Detial/>}></Route>
+        <Route path='./f4moduletest/' element={<Home/>}></Route>
+        <Route path='./detail' element={<Detial/>}></Route>
       </Routes>
      
     </div>
